@@ -23,6 +23,7 @@ public class Ex1_Switch {
                 System.out.println("Sat");
             case 7:
                 System.out.println("Sun");
+                break;
 
 
         }
